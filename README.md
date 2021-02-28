@@ -1,6 +1,6 @@
 <div align = "center" id = "top">
 
-<img width="600" src="/public/images/logo.svg">
+<img width="400" src="/public/images/logo.svg">
 
 </div>
 
@@ -87,8 +87,11 @@ $ yarn start
 
 # A aplicação estará rodando em http://localhost:5500 por padrão.
 ```
+<div align = "center" id = "top">
 
 <img width="600" src="https://user-images.githubusercontent.com/60857927/109437653-b7615800-7a04-11eb-902c-7ca0b315d113.gif">
+
+</div>
 
 :construction: &#xa0; As versões de todas as dependências estão no arquivo <a href="./package.json">package.json</a>.
 
