@@ -13,8 +13,7 @@
 <a href="#requisitos">Requisitos</a> &#xa0; | &#xa0;
 <a href="#executando">Executando</a> &#xa0; | &#xa0;
 <a href="#roadmap">Roadmap</a> &#xa0; | &#xa0;
-<a href="#referencias">Referências</a> &#xa0; | &#xa0;
-<a href="#time">Time</a>
+<a href="#referencias">Referências</a>
 
 </p>
 
